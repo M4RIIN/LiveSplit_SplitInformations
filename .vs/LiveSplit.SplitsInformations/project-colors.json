@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10d44ede-b984-425e-9292-80d4ba652542": {
+      "ProjectGuid": "10d44ede-b984-425e-9292-80d4ba652542",
+      "DisplayName": "LiveSplit.SplitsInformations",
+      "ColorIndex": 0
+    },
+    "6de847db-20a3-4848-aeee-1b4364aecdfb": {
+      "ProjectGuid": "6de847db-20a3-4848-aeee-1b4364aecdfb",
+      "DisplayName": "LiveSplit.Core",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Fichiers divers",
+      "ColorIndex": -1
+    },
+    "23d8d3bf-a30e-46f6-9578-6c2de973a200": {
+      "ProjectGuid": "23d8d3bf-a30e-46f6-9578-6c2de973a200",
+      "DisplayName": "Libs",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
