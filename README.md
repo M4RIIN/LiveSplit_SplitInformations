@@ -2,7 +2,7 @@
 Gives informations about current split (can be displayed during a stream).
 
 # Adding to your LiveSplit
- Download <a data-permalink-href="/M4RIIN/LiveSplit_SplitInformations/raw/bf17a2aeba952719567c31665720a66830230d34/bin/Debug/LiveSplit.SplitsInformations.dll" href="/M4RIIN/LiveSplit_SplitInformations/raw/master/bin/Debug/LiveSplit.SplitsInformations.dll" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  LiveSplit.SplitsInformations.dll
+ Download <a data-permalink-href="https://github.com/M4RIIN/LiveSplit_SplitInformations/blob/master/bin/Debug/LiveSplit.SplitsInformations.dll" href="https://github.com/M4RIIN/LiveSplit_SplitInformations/blob/master/bin/Debug/LiveSplit.SplitsInformations.dll" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  LiveSplit.SplitsInformations.dll
 </a>
 
 Add the preceding file in your LiveSplit directory/Components.<br/>
