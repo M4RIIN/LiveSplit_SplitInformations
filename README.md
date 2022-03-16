@@ -5,7 +5,7 @@ Give informations about current split in order to display it during a stream ( c
  download <a data-permalink-href="/M4RIIN/LiveSplit_SplitInformations/raw/bf17a2aeba952719567c31665720a66830230d34/bin/Debug/LiveSplit.SplitsInformations.dll" href="/M4RIIN/LiveSplit_SplitInformations/raw/master/bin/Debug/LiveSplit.SplitsInformations.dll" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">  LiveSplit.SplitsInformations.dll
 </a>
 
-You have to add this file in yout LiveSplit directory/Components.
+You have to add this file in your LiveSplit directory/Components.
 Now you will able to settings your LiveSplit to add some informations about each split:
 
 <img src="https://user-images.githubusercontent.com/97697838/158565168-7c6bd97c-3b96-4c3c-8dc2-d90a91023d03.png"  width="400" height="300" />
